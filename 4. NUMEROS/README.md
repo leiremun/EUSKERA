@@ -31,6 +31,9 @@ En este tema vamos a aprender los números del 0 al 100. Conocer los números es
 |19|Hemeretzi|
 |20|Hogei|
 
+### Curiosidad:
+El sistema numérico del euskera es vigesimal (base 20), similar al francés antiguo.
+
 ## Números del 21 al 30
 |Número|Euskera|
 |------|------|
