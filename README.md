@@ -17,6 +17,6 @@ En este curso encontrarás contenido variado, organizado en 7 temas:
 7. [**Azterketa** - Test final](/7_testFinal)
 
 ### Organización de los contenidos
-Como verás hay 6 temas: cada uno consta de una parte teórica y un pdf con ejercicios. El [séptimo tema](/7_testFinal) se trata de test final. Además, cuentas también con una [carpeta adicional](/anexos) en el que encontrarás dos archivos epub: [anexo I](/anexos/anexoI.epub), con las soluciones de los ejercicios, y [anexo II](/anexos/anexoII.epub), con enlaces a recursos adicionales en caso de que sea de tu interés.
+Como verás hay 6 temas: cada uno consta de una parte teórica y un pdf con ejercicios. El [séptimo tema](/7_testFinal) se trata de test final. Además, cuentas también con una [carpeta adicional](/ANEXOS) en el que encontrarás dos archivos epub: [anexo I](/anexos/anexoI.epub), con las soluciones de los ejercicios, y [anexo II](/anexos/anexoII.epub), con enlaces a recursos adicionales en caso de que sea de tu interés.
 
 Ahora sí, puedes empezar con el [primer tema](/1_origen)
