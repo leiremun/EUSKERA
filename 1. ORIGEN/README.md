@@ -30,4 +30,4 @@ A lo largo de los siglos, el euskera ha logrado sobrevivir en gran medida debido
 
 ---
 
-Ahora realiza los ejercicios y después pasa al siguiente tema.
+Ahora realiza los [ejercicios](/ejerciciosHistoria.pdf) y después pasa al [siguiente tema](/2.ABECEDARIO).
