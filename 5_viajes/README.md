@@ -84,4 +84,6 @@ En esta lección, aprenderemos vocabulario útil para viajar, que te ayudará a 
 |Zer ordutan ixten da...?|¿A qué hora cierra...?|
 
 
+---
 
+Ahora realiza los [ejercicios](/ejerciciosViajes.pdf) y después pasa al [siguiente tema](/6_gramatica).

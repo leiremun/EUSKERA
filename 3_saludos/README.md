@@ -25,3 +25,7 @@ _Ongi etorri_ es la expresión para dar la bienvenida a alguien en euskera.
 ## 6. Egun on - Buenos días
 _Egun on_ se utiliza para desear "buenos días" en euskera.
 > Ejemplo: _Egun on, zer moduz hasi da zure eguna?_ (¡Buenos días, cómo empiezas el día?)
+
+---
+
+Ahora realiza los [ejercicios](/ejerciciosSaludos.pdf) y después pasa al [siguiente tema](/4_numeros).

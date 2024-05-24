@@ -114,3 +114,7 @@ El euskera utiliza casos gramaticales para indicar la función de las palabras e
 |Acusativo|**gizona** ikusi dut|he visto **al hombre**|
 |Dativo|**gizonari** eman diot|le he dado **al hombre**|
 |Genitivo|**gizonaren** liburua|el libro **del hombre**|
+
+---
+
+¡Muy bien! ya has terminado con los contenidos teóricos del curso. Ahora realiza los [ejercicios](/ejerciciosGramática.pdf) de este tema y después pasa a la [última carpeta](/7_testFinal), donde tendrás un test final con los contenidos vistos durante el curso.

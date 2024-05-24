@@ -68,3 +68,6 @@ Para los números 31 a 99, seguimos un patrón similar al de los 21 a 29. Aquí 
 |99|Hemeretzi|
 |100|Ehun|
 
+---
+
+Ahora realiza los [ejercicios](/ejerciciosNumeros.pdf) y después pasa al [siguiente tema](/5_viajes).
