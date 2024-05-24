@@ -24,3 +24,6 @@ Otra hipótesis sugiere una posible relación con las lenguas caucásicas, debid
 
 ## Evolución y conservación: 
 A lo largo de los siglos, el euskera ha logrado sobrevivir en gran medida debido al aislamiento geográfico y cultural de la región vasca. Esto ha permitido que la lengua se mantenga relativamente libre de influencias externas significativas hasta tiempos más recientes.
+
+
+> _En el caso de que estés interesado/a, tienes a tu disposición en la última carpeta un archivo epub con enlaces a artículos interesantes sobre el tema_
