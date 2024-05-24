@@ -59,3 +59,7 @@ Ahora que conoces las letras, veamos algunas palabras en euskera y cómo se pron
 ## Conclusión
 
 ¡Felicidades! Has aprendido el abecedario en euskera y algunas palabras básicas. Practica la pronunciación y trata de memorizar las letras. 
+
+---
+
+Ahora realiza los [ejercicios](/ejerciciosAbecedario.pdf) y después pasa al [siguiente tema](/3_saludos).
