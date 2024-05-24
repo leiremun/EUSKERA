@@ -27,3 +27,7 @@ A lo largo de los siglos, el euskera ha logrado sobrevivir en gran medida debido
 
 
 > _En el caso de que estés interesado/a, tienes a tu disposición en la última carpeta un archivo epub con enlaces a artículos interesantes sobre el tema_
+
+---
+
+Ahora realiza los ejercicios y después pasa al siguiente tema.
