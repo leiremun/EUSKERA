@@ -10,4 +10,5 @@ En este curso encontrarás contenido variado, organizado en __ temas. A continua
 3.	Agurrak – Los saludos
 4.	Zenbakiak – Los números
 5.	Bidaietarako hitzak - Palabras para viajes
-6.	Azterketa - Test final
+6.	Gramatika - Gramática
+7.	Azterketa - Test final
